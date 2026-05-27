@@ -22,7 +22,8 @@ Screenshot of results
 Although another object (cup) was present, it detected only the car without any problems.
 
 Gif of test scene
-<img width="654" height="368" alt="image" src="https://github.com/user-attachments/assets/8fba4f33-6bfb-46fc-83f7-92e3db0df9f9" />
+<img width="654" height="368" alt="hw6 test" src="https://github.com/user-attachments/assets/ed155c48-a55d-4404-ab3e-a99f281f70c9" />
+
 
 
 
