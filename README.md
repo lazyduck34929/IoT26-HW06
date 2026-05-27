@@ -1,7 +1,7 @@
 # IoT26-HW06
 Repository for documenting 'Introduction to the Internet of Things HW06'
 
-HW 6: Car Plate Recognition System with Raspberry Pi and Node-RED
+HW 6: Car Plate Recognition System with Raspberry Pi and YOLO AI
 
 Screenshot of code
 <img width="1692" height="1908" alt="image" src="https://github.com/user-attachments/assets/af693560-e6f4-4dde-8459-d6fffc46985b" />
